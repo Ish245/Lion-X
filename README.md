@@ -1,11 +1,11 @@
 
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/Mdnoor786/Lion/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Mdnoor786/Lion"> <img src="https://img.shields.io/github/repo-size/Mdnoor786/Lion?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Mdnoor786/Lion/commits"> <img src="https://img.shields.io/github/last-commit/Mdnoor786/Lion?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Mdnoor786/Lion/issues"> <img src="https://img.shields.io/github/issues/Mdnoor786/Lion?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Mdnoor786/Lion/network/members"> <img src="https://img.shields.io/github/forks/Mdnoor786/Lion?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/Mdnoor786/Lion-X/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Mdnoor786/Lion-X"> <img src="https://img.shields.io/github/repo-size/Mdnoor786/Lion?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Mdnoor786/Lion-X/commits"> <img src="https://img.shields.io/github/last-commit/Mdnoor786/Lion?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Mdnoor786/Lion-X/issues"> <img src="https://img.shields.io/github/issues/Mdnoor786/Lion?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Mdnoor786/Lion-X/network/members"> <img src="https://img.shields.io/github/forks/Mdnoor786/Lion?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -109,4 +109,4 @@ This bot is a modified version of telebot and dark cobra 👩‍🔧
 ## 𝙳𝙴𝚅
 
 ##### • 𝙼𝙳 𝙽𝙾𝙾𝚁 - 𝙳𝙴𝚅  »»  <a href="telegram.dog/SimpleBoy786" alt="Mdnoor"> <img src="https://img.shields.io/badge/Md%20Noor-536eff?logo=Telegram" /></a>
-##### • 𝚂𝙷𝙰𝚂𝙷𝙰𝙽𝙺 𝚇𝙳 - 𝙳𝙴𝚅  »»  <a href="telegram.dog/ShashankxD" alt="Shashank"> <img src="https://img.shields.io/badge/ShashanK%20xD-536eff?logo=telegram" /></a>
+##### • Gamdu 𝚂𝙷𝙰𝚂𝙷𝙰𝙽𝙺 𝚇𝙳 - 𝙳𝙴𝚅  »»  <a href="telegram.dog/ShashankxD" alt="Shashank"> <img src="https://img.shields.io/badge/ShashanK%20xD-536eff?logo=telegram" /></a>
