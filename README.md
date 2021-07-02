@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./Lion-X Logo/IMG_20210603_220209_526.jpg" alt="Lion ub">
+  <img src="./Lion-X/Lion.jpg" alt="Lion ub">
 </p>
 
 <p align="left"><a href="https://github.com/TeamLion-X/Lion-X"><img src="https://github-readme-stats.vercel.app/api/pin?username=TeamLion-X&show_icons=true&theme=dark&hide_border=true&repo=Lion-X"></a></p>
