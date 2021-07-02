@@ -29,7 +29,7 @@
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ
 
-<p align="left"><a href="https://replit.com/@LionUB/stringsession#main.py"> <img src="https://img.shields.io/badge/String%20Session-✘-purple?style=for-the-badge&logo=repl" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://replit.com/@simpleboy786/Lion-X?v=1"> <img src="https://img.shields.io/badge/String%20Session-✘-purple?style=for-the-badge&logo=repl" width="220" height="38.45"/></a></p>
 
 ##### Documention coming soon 🔜
 
